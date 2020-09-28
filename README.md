@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![languages](https://github.com/alansmathew/alansmathew/raw/master/lang.gif)
+
+<p align="center">
+  <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
+</p>
+
