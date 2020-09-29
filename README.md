@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="tel:+917559904709">
+  <a href="www.google.com">
     <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/skill.gif" alt="lang image here" />
   </a>
 </p>
