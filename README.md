@@ -35,12 +35,13 @@ Here are some ideas to get you started:
   <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 </p>
 
-- 🔭 I’m currently working on Find
-- 🌱 I’m currently learning MCA
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about SWIFT
-- 📫 How to reach me: alansmathew@icloud.com
-
+<p align="center">
+- 🔭 I’m currently working on Find<br>
+- 🌱 I’m currently learning MCA<br>
+- 🤔 I’m looking for help with Python<br>
+- 💬 Ask me about SWIFT<br>
+- 📫 How to reach me: alansmathew@icloud.com<br>
+</p>
 
 <p align="center">
   <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
