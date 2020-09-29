@@ -23,16 +23,24 @@ Here are some ideas to get you started:
   <img width="1000%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
 </p>
 
--->
-<p align="center">
-  <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
-</p>
 
 <p align="center">
   <a href="tel:7559904709">
     <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/skill.gif" alt="lang image here" />
   </a>
 </p>
+
+-->
+<p align="center">
+  <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
+</p>
+
+- 🔭 I’m currently working on Find
+- 🌱 I’m currently learning MCA
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about SWIFT
+- 📫 How to reach me: alansmathew@icloud.com
+
 
 <p align="center">
   <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
