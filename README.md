@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Find
 - 🌱 I’m currently learning MCA
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with peer to peer connection on torrent 
 - 💬 Ask me about SWIFT
 - 📫 How to reach me: alansmathew@icloud.com
 
