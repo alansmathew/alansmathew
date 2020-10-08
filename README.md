@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
+  <img width="60%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
 </p>
   
 
