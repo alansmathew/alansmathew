@@ -35,12 +35,10 @@ Here are some ideas to get you started:
   <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
 </p>
 
-- 🔭 I’m currently working on Find
-- 🌱 I’m currently learning MCA
-- 🤔 I’m looking for help with peer to peer connection on torrent 
-- 💬 Ask me about SWIFT
+- 🔭 I’m currently working as an iOS Developer
+- 🤔 I’m looking forward to connect individuals with UI/UX knowledge
+- 💬 Ask me about SWIFT and always humble to learn more about swift and swiftUI
 - 📫 How to reach me: alansmathew@icloud.com
-
 
 <p align="center">
   <img width="60%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
