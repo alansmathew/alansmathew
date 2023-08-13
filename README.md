@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 
 -->
 <p align="center">
-  <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="lang-dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="lang-light.gif">
+        <img width="30%" src="lang.gif" alt="lang image here" />
+    </picture>
 </p>
 
 
